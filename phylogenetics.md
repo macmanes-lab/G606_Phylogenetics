@@ -1,9 +1,9 @@
-Gen 606 Phylogenetics Exercise
---
+# Gen 606 Phylogenetics Exercise
+
 
 The purpose of this exercise is to familiarize you with the very basics of phylogenetic methods. There are a number of courses that expand upon this both at UNH and beyond. There are also some great tutorials that might be interesting for some: http://treethinkers.org/tutorials/
 
-**SOFTWARE USED**
+#### SOFTWARE USED
 
 - MUSCLE
 	
@@ -18,13 +18,13 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 
 ---
 
-**Steps for analysis**
+#### Steps for analysis
 
 - Navigate to http://phylogeny.lirmm.fr/phylo_cgi/phylogeny.cgi
 
 - Click Phylogeny Analysis > "a la carte"
 
-**Set up your Analysis**
+#### Set up your Analysis
 
 - name your pipeline
 
@@ -38,9 +38,9 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 
 - Click Create workflow
 
-- Paste in your nucleotide sequences, which can be found here: https://github.com/macmanes-lab/G606_Phylogenetics/blob/master/seqs.fasta then click submit
+- Paste in your nucleotide sequences, which can be found here: https://github.com/macmanes-lab/G606_Phylogenetics/blob/master/nucleotides.faa then click submit
 
-**Generating Results**
+#### Generating Results
 
 - Alignment
 
@@ -73,7 +73,11 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 
 ---
 
-**Advanced Exercises**
+#### Now repeat the analysis using the Protein sequences
+- found here: https://github.com/macmanes-lab/G606_Phylogenetics/blob/master/prot.faa
+
+
+#### Advanced Exercises
 
 There are several 'advanced' exercises that could be interesting. Many of these include changing the specific parameters or deleting steps (for instance, what happens when you don't run GBLOCKS?). Try these if interested.
  
