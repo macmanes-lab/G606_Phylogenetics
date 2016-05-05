@@ -77,4 +77,4 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 
 There are several 'advanced' exercises that could be interesting. Many of these include changing the specific parameters or deleting steps (for instance, what happens when you don't run GBLOCKS?). Try these if interested.
  
-There is also a more complicated web interface for doing phylogenetics. These analyses are done on https://www.phylo.org/. Here you can do VERY complicated analyses like you might do for a publication. Try this stuff out if you are are interested. 
+There is also a more complicated web interface for doing phylogenetics. These analyses are done on https://www.phylo.org/. Here you can do VERY complicated analyses like you might do for a publication. Try this stuff out if you are interested. 
