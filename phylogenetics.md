@@ -38,7 +38,7 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 
 - Click Create workflow
 
-- Paste in your nucleotide sequences, which can be found here: https://github.com/macmanes-lab/general/blob/master/phylogenetics/seqs.fasta then click submit
+- Paste in your nucleotide sequences, which can be found here: https://github.com/macmanes-lab/G606_Phylogenetics/blob/master/seqs.fasta then click submit
 
 **Generating Results**
 
