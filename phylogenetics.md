@@ -16,6 +16,9 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 	- http://www.atgc-montpellier.fr/download/papers/phyml_2010.pdf
 	- http://www.atgc-montpellier.fr/phyml/faq.php
 
+- eteToolkit
+
+	- http://etetoolkit.org/treeview/
 ---
 
 #### Steps for analysis
