@@ -49,16 +49,15 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 
 	- What do the different colors mean?
 	- Can you infer something about the relationship between the species based on this alignment?
-	- Optional - download the alignment.
 	- when done, scroll to bottom of page and click "Next Step"
 	
 
 - Curation
 
 	- Click option under 'For a more stringent selection' > Submit
-
 	- What did curation do?
 	- Why might this be important? 
+	- Under the "Outputs" section: download the alignment in fasta format (or just open it in a new tab)
 	- when done, scroll to bottom of page and click "Next Step"
 
 - PhyML Tree Building
@@ -69,7 +68,7 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 - Tree Visualization
 	- Submit
 	- Root using Drosophila
-	- What does phylogeny mean?
+	- What does this phylogeny mean?
 	- Red numbers?
 	- Why different branch lengths?
 	- Are there cases where the hypothesized relationships don't make sense? Why?
@@ -85,7 +84,7 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 - found here: https://github.com/macmanes-lab/G606_Phylogenetics/blob/master/prot.faa
 
 
-#### Advanced Exercises
+#### Additional Exercises
 
 There are several 'advanced' exercises that could be interesting. Many of these include changing the specific parameters or deleting steps (for instance, what happens when you don't run GBLOCKS?). Try these if interested.
  
