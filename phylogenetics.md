@@ -68,14 +68,15 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 - Tree Visualization
 	- Submit
 	- Root using Drosophila
-	- What does this phylogeny mean?
-	- Red numbers?
-	- Why different branch lengths?
-	- Are there cases where the hypothesized relationships don't make sense? Why?
+	
 - Using eteToolkit
 	- Go to eteToolkit: http://etetoolkit.org/treeview/
 	- Paste in Alignment (go to Alignment tab, scroll to near bottom of page, click on 'Alignments in Fasta Format")
 	- Paste in Rooted Newick Tree (Tree rendering tab, near bottom, click "Rooted tree in Newick format")
+	- What does this phylogeny mean?
+	- Red numbers?
+	- Why different branch lengths?
+	- Are there cases where the hypothesized relationships don't make sense? Why?
 
 
 ---
@@ -86,6 +87,6 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 
 #### Additional Exercises
 
-There are several 'advanced' exercises that could be interesting. Many of these include changing the specific parameters or deleting steps (for instance, what happens when you don't run GBLOCKS?). Try these if interested.
+There are several additional exercises that could be interesting. Many of these include changing the specific parameters or deleting steps (for instance, what happens when you don't run GBLOCKS?). Try these if interested.
  
 There is also a more complicated web interface for doing phylogenetics. These analyses are done on https://www.phylo.org/. Here you can do VERY complicated analyses like you might do for a publication. Try this stuff out if you are interested. 
