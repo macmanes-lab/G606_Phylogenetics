@@ -57,7 +57,6 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 	- Click option under 'For a more stringent selection' > Submit
 	- What did curation do?
 	- Why might this be important? 
-	- Under the "Outputs" section: download the alignment in fasta format (or just open it in a new tab)
 	- when done, scroll to bottom of page and click "Next Step"
 
 - PhyML Tree Building
@@ -67,11 +66,12 @@ The purpose of this exercise is to familiarize you with the very basics of phylo
 
 - Tree Visualization
 	- Submit
-	- Root using Drosophila
+	- Click "Reroot (outgroup)"
+	- Click Drosophila, on the tree above
+	- We can look at the tree here, but it is easier to see in the next step.
 	
 - Using eteToolkit
 	- Go to eteToolkit: http://etetoolkit.org/treeview/
-	- Paste in Alignment (go to Alignment tab, scroll to near bottom of page, click on 'Alignments in Fasta Format")
 	- Paste in Rooted Newick Tree (Tree rendering tab, near bottom, click "Rooted tree in Newick format")
 	- What does this phylogeny mean?
 	- Red numbers?
